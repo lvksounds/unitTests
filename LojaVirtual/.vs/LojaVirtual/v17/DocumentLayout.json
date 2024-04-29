@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F757A177-1BD7-45B7-935D-FCFED44244D6}|LojaVirtual.Tests\\LojaVirtual.Tests.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\lojavirtual\\lojavirtual.tests\\testamaioremenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F757A177-1BD7-45B7-935D-FCFED44244D6}|LojaVirtual.Tests\\LojaVirtual.Tests.csproj|solutionrelative:lojavirtual.tests\\testamaioremenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5A74D7-A1C9-4159-A477-BB20984B26B6}|Console\\Console.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\lojavirtual\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5A74D7-A1C9-4159-A477-BB20984B26B6}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A7B69A-187A-48F4-A012-07079FF91A4A}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\lojavirtual\\lojavirtual\\maioremenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A7B69A-187A-48F4-A012-07079FF91A4A}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\maioremenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A7B69A-187A-48F4-A012-07079FF91A4A}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\lojavirtual\\lojavirtual\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A7B69A-187A-48F4-A012-07079FF91A4A}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A7B69A-187A-48F4-A012-07079FF91A4A}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\lojavirtual\\lojavirtual\\carrinhodecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A7B69A-187A-48F4-A012-07079FF91A4A}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\carrinhodecompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5A74D7-A1C9-4159-A477-BB20984B26B6}|Console\\Console.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\lojavirtual\\console\\console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA5A74D7-A1C9-4159-A477-BB20984B26B6}|Console\\Console.csproj|solutionrelative:console\\console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79A7B69A-187A-48F4-A012-07079FF91A4A}|LojaVirtual\\LojaVirtual.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\lojavirtual\\lojavirtual\\lojavirtual.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79A7B69A-187A-48F4-A012-07079FF91A4A}|LojaVirtual\\LojaVirtual.csproj|solutionrelative:lojavirtual\\lojavirtual.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestaMaiorEMenor.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\LojaVirtual.Tests\\TestaMaiorEMenor.cs",
+              "RelativeDocumentMoniker": "LojaVirtual.Tests\\TestaMaiorEMenor.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\LojaVirtual.Tests\\TestaMaiorEMenor.cs",
+              "RelativeToolTip": "LojaVirtual.Tests\\TestaMaiorEMenor.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:50:09.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MaiorEMenor.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\LojaVirtual\\MaiorEMenor.cs",
+              "RelativeDocumentMoniker": "LojaVirtual\\MaiorEMenor.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\LojaVirtual\\MaiorEMenor.cs",
+              "RelativeToolTip": "LojaVirtual\\MaiorEMenor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:49:05.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\LojaVirtual\\Produto.cs",
+              "RelativeDocumentMoniker": "LojaVirtual\\Produto.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\LojaVirtual\\Produto.cs",
+              "RelativeToolTip": "LojaVirtual\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:49:03.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarrinhoDeCompras.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\LojaVirtual\\CarrinhoDeCompras.cs",
+              "RelativeDocumentMoniker": "LojaVirtual\\CarrinhoDeCompras.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\LojaVirtual\\CarrinhoDeCompras.cs",
+              "RelativeToolTip": "LojaVirtual\\CarrinhoDeCompras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:48:33.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LojaVirtual.csproj",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+              "RelativeDocumentMoniker": "LojaVirtual\\LojaVirtual.csproj",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+              "RelativeToolTip": "LojaVirtual\\LojaVirtual.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T12:48:05.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Console.csproj",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\Console\\Console.csproj",
+              "RelativeDocumentMoniker": "Console\\Console.csproj",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\Console\\Console.csproj",
+              "RelativeToolTip": "Console\\Console.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T12:48:02.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAD4HAAAAAAAAAAAEwEoHAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-04-26T12:48:00.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\Console\\Program.cs",
+              "RelativeDocumentMoniker": "Console\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\LojaVirtual\\Console\\Program.cs",
+              "RelativeToolTip": "Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:45:35.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

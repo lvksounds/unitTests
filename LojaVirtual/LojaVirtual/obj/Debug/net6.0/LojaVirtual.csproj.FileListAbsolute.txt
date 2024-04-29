@@ -1,0 +1,11 @@
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\LojaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\LojaVirtual.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\LojaVirtual.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\LojaVirtual.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\bin\Debug\net6.0\LojaVirtual.deps.json
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\bin\Debug\net6.0\LojaVirtual.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\bin\Debug\net6.0\LojaVirtual.pdb
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\LojaVirtual.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\refint\LojaVirtual.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\LojaVirtual.pdb
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\ref\LojaVirtual.dll

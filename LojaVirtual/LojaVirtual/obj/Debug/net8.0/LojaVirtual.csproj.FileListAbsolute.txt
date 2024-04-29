@@ -1,0 +1,4 @@
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net8.0\LojaVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net8.0\LojaVirtual.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net8.0\LojaVirtual.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net8.0\LojaVirtual.csproj.CoreCompileInputs.cache
