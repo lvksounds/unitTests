@@ -9,3 +9,4 @@ C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\Lo
 C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\refint\LojaVirtual.dll
 C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\LojaVirtual.pdb
 C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\ref\LojaVirtual.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual\obj\Debug\net6.0\LojaVirtual.sourcelink.json

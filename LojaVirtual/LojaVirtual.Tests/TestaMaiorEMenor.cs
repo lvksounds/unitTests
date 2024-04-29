@@ -18,5 +18,20 @@ namespace LojaVirtual.Tests
             Assert.AreEqual("Geladeira", algoritmo.Maior.Nome);
 
         }
+
+        [Test]
+        public void ApenasUmProduto()
+        {
+            CarrinhoDeCompras carrinho = new CarrinhoDeCompras();
+            Produto produto = new Produto("Geladeira", 450.0);
+            carrinho.Adiciona(produto);
+
+            MaiorEMenor algoritmo = new MaiorEMenor();
+
+            algoritmo.Encontra(carrinho);
+
+            Assert.AreEqual(produto, algoritmo.Maior);
+            Assert.AreEqual(produto, algoritmo.Menor);
+        }
     }
 }

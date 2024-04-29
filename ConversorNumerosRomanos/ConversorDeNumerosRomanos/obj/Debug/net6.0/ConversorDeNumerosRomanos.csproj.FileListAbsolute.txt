@@ -1,0 +1,12 @@
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\bin\Debug\net6.0\ConversorDeNumerosRomanos.deps.json
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\bin\Debug\net6.0\ConversorDeNumerosRomanos.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\bin\Debug\net6.0\ConversorDeNumerosRomanos.pdb
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\net6.0\ConversorDeNumerosRomanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\net6.0\ConversorDeNumerosRomanos.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\net6.0\ConversorDeNumerosRomanos.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\net6.0\ConversorDeNumerosRomanos.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\net6.0\ConversorDeNumerosRomanos.sourcelink.json
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\net6.0\ConversorDeNumerosRomanos.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\net6.0\refint\ConversorDeNumerosRomanos.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\net6.0\ConversorDeNumerosRomanos.pdb
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\ConversorNumerosRomanos\ConversorDeNumerosRomanos\obj\Debug\net6.0\ref\ConversorDeNumerosRomanos.dll

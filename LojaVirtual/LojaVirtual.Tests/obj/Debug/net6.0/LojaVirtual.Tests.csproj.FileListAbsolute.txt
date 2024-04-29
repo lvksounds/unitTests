@@ -100,3 +100,4 @@ C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\Lo
 C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual.Tests\obj\Debug\net6.0\LojaVirtual.Tests.pdb
 C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual.Tests\obj\Debug\net6.0\LojaVirtual.Tests.genruntimeconfig.cache
 C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual.Tests\obj\Debug\net6.0\ref\LojaVirtual.Tests.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\LojaVirtual\LojaVirtual.Tests\obj\Debug\net6.0\LojaVirtual.Tests.sourcelink.json
