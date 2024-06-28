@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FDA002-4AE8-4D75-AB1E-FFBA13ED35A9}|Funcionario\\FuncionarioData.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\salariofuncionario\\calcsalario\\funcionario\\calculadoradesalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FDA002-4AE8-4D75-AB1E-FFBA13ED35A9}|Funcionario\\FuncionarioData.csproj|solutionrelative:funcionario\\calculadoradesalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FDA002-4AE8-4D75-AB1E-FFBA13ED35A9}|Funcionario\\FuncionarioData.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\salariofuncionario\\calcsalario\\funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FDA002-4AE8-4D75-AB1E-FFBA13ED35A9}|Funcionario\\FuncionarioData.csproj|solutionrelative:funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FDA002-4AE8-4D75-AB1E-FFBA13ED35A9}|Funcionario\\FuncionarioData.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\salariofuncionario\\calcsalario\\funcionario\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FDA002-4AE8-4D75-AB1E-FFBA13ED35A9}|Funcionario\\FuncionarioData.csproj|solutionrelative:funcionario\\cargo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FDA002-4AE8-4D75-AB1E-FFBA13ED35A9}|Funcionario\\FuncionarioData.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\salariofuncionario\\calcsalario\\funcionario\\funcionariodata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FDA002-4AE8-4D75-AB1E-FFBA13ED35A9}|Funcionario\\FuncionarioData.csproj|solutionrelative:funcionario\\funcionariodata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE6FE68-2ED1-497F-A579-A1D9A17C0A20}|CalculadoraDeSalariosTests\\CalculadoraDeSalariosTests.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\salariofuncionario\\calcsalario\\calculadoradesalariostests\\calculadoradesalariotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE6FE68-2ED1-497F-A579-A1D9A17C0A20}|CalculadoraDeSalariosTests\\CalculadoraDeSalariosTests.csproj|solutionrelative:calculadoradesalariostests\\calculadoradesalariotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraDeSalario.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\Funcionario\\CalculadoraDeSalario.cs",
+              "RelativeDocumentMoniker": "Funcionario\\CalculadoraDeSalario.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\Funcionario\\CalculadoraDeSalario.cs",
+              "RelativeToolTip": "Funcionario\\CalculadoraDeSalario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:13:56.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioData.csproj",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\Funcionario\\FuncionarioData.csproj",
+              "RelativeDocumentMoniker": "Funcionario\\FuncionarioData.csproj",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\Funcionario\\FuncionarioData.csproj",
+              "RelativeToolTip": "Funcionario\\FuncionarioData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T17:12:09.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\Funcionario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Funcionario\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\Funcionario\\Funcionario.cs",
+              "RelativeToolTip": "Funcionario\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:06:55.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cargo.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\Funcionario\\Cargo.cs",
+              "RelativeDocumentMoniker": "Funcionario\\Cargo.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\Funcionario\\Cargo.cs",
+              "RelativeToolTip": "Funcionario\\Cargo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:00:50.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculadoraDeSalarioTest.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\CalculadoraDeSalariosTests\\CalculadoraDeSalarioTest.cs",
+              "RelativeDocumentMoniker": "CalculadoraDeSalariosTests\\CalculadoraDeSalarioTest.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\CalculadoraDeSalariosTests\\CalculadoraDeSalarioTest.cs",
+              "RelativeToolTip": "CalculadoraDeSalariosTests\\CalculadoraDeSalarioTest.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA7wB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:59:34.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

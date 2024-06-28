@@ -17,21 +17,17 @@ public class ConversorDeNumeroRomano
      {
         int acumulador = 0;
         int ultimoVizinhoDaDireita = 0;
-        for (int i = 0; i < numeroRomano.Length -1; i--)
+        for (int i = numeroRomano.Length -1; i >= 0; i--)
         {
-            // pega o inteiro referente ao simbolo atual 
+        
             int atual = tabela[numeroRomano[i]];
-
-            // se o da direita for menor, o multiplicaremos por -1 pra torna-lo negativo
-
             int multiplicador = 1;
+
             if (atual < ultimoVizinhoDaDireita) multiplicador = -1;
-            acumulador += tabela[numeroRomano[i]];
-
-            // atualiza o vizinho da direita
+            
+            acumulador += atual * multiplicador;
+            
             ultimoVizinhoDaDireita = atual;
-
-            acumulador += tabela[numeroRomano[i]];
         }
 
         return acumulador;

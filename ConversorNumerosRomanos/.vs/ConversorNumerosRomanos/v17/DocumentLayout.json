@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{8B89FB30-4616-4B13-B39B-2912A329097D}|ConversorDeNumerosRomanos\\ConversorDeNumerosRomanos.csproj|solutionrelative:conversordenumerosromanos\\conversordenumeroromano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E221A24C-C3AA-4374-A593-19844742727A}|Testes\\Testes.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\conversornumerosromanos\\testes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E221A24C-C3AA-4374-A593-19844742727A}|Testes\\Testes.csproj|solutionrelative:testes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7D7349B-7DB4-40D9-8F19-E9747E993E99}|ConversorNumRomano.Tests\\ConversorNumRomano.Tests.csproj|c:\\users\\lucas.freitas\\documents\\projetos\\pessoal\\testesdeunidade\\conversornumerosromanos\\conversornumromano.tests\\conversordenumerosromanostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D7349B-7DB4-40D9-8F19-E9747E993E99}|ConversorNumRomano.Tests\\ConversorNumRomano.Tests.csproj|solutionrelative:conversornumromano.tests\\conversordenumerosromanostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,26 +94,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\ConversorNumerosRomanos\\Testes\\Program.cs",
+              "RelativeDocumentMoniker": "Testes\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\ConversorNumerosRomanos\\Testes\\Program.cs",
+              "RelativeToolTip": "Testes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:30:28.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConversorDeNumeroRomano.cs",
               "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\ConversorNumerosRomanos\\ConversorDeNumerosRomanos\\ConversorDeNumeroRomano.cs",
               "RelativeDocumentMoniker": "ConversorDeNumerosRomanos\\ConversorDeNumeroRomano.cs",
               "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\ConversorNumerosRomanos\\ConversorDeNumerosRomanos\\ConversorDeNumeroRomano.cs",
               "RelativeToolTip": "ConversorDeNumerosRomanos\\ConversorDeNumeroRomano.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAswBoAAAAiAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswBoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T19:00:13.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ConversorDeNumerosRomanosTest.cs",
               "DocumentMoniker": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\ConversorNumerosRomanos\\ConversorNumRomano.Tests\\ConversorDeNumerosRomanosTest.cs",
               "RelativeDocumentMoniker": "ConversorNumRomano.Tests\\ConversorDeNumerosRomanosTest.cs",
               "ToolTip": "C:\\Users\\lucas.freitas\\Documents\\projetos\\pessoal\\TestesDeUnidade\\ConversorNumerosRomanos\\ConversorNumRomano.Tests\\ConversorDeNumerosRomanosTest.cs",
               "RelativeToolTip": "ConversorNumRomano.Tests\\ConversorDeNumerosRomanosTest.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAcwDAAAAAdAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwC4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T18:57:42.834Z",
               "EditorCaption": ""

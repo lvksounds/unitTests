@@ -1,0 +1,12 @@
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\bin\Debug\net6.0\FuncionarioData.deps.json
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\bin\Debug\net6.0\FuncionarioData.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\bin\Debug\net6.0\FuncionarioData.pdb
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\obj\Debug\net6.0\FuncionarioData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\obj\Debug\net6.0\FuncionarioData.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\obj\Debug\net6.0\FuncionarioData.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\obj\Debug\net6.0\FuncionarioData.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\obj\Debug\net6.0\FuncionarioData.sourcelink.json
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\obj\Debug\net6.0\FuncionarioData.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\obj\Debug\net6.0\refint\FuncionarioData.dll
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\obj\Debug\net6.0\FuncionarioData.pdb
+C:\Users\lucas.freitas\Documents\projetos\pessoal\TestesDeUnidade\SalarioFuncionario\CalcSalario\Funcionario\obj\Debug\net6.0\ref\FuncionarioData.dll

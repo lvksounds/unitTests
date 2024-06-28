@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "dgSpecHash": "66GlbXg+KEc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.freitas\\Documents\\Projetos\\pessoal\\TestesDeUnidade\\SalarioFuncionario\\CalcSalario\\CalculadoraDeSalariosTests\\CalculadoraDeSalariosTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\microsoft.net.test.sdk\\17.8.0\\microsoft.net.test.sdk.17.8.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\nunit.analyzers\\3.9.0\\nunit.analyzers.3.9.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\lucas.freitas\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "CalculadoraDeSalariosTests depende de coverlet.collector (>= 3.2.0), mas coverlet.collector 3.2.0 não foi encontrado. A melhor correspondência aproximada de coverlet.collector 6.0.0 foi resolvida.",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "CalculadoraDeSalariosTests depende de Microsoft.NET.Test.Sdk (>= 17.5.0), mas Microsoft.NET.Test.Sdk 17.5.0 não foi encontrado. A melhor correspondência aproximada de Microsoft.NET.Test.Sdk 17.8.0 foi resolvida.",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "CalculadoraDeSalariosTests depende de NUnit (>= 3.13.3), mas NUnit 3.13.3 não foi encontrado. A melhor correspondência aproximada de NUnit 3.14.0 foi resolvida.",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "CalculadoraDeSalariosTests depende de NUnit.Analyzers (>= 3.6.1), mas NUnit.Analyzers 3.6.1 não foi encontrado. A melhor correspondência aproximada de NUnit.Analyzers 3.9.0 foi resolvida.",
+      "libraryId": "NUnit.Analyzers",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "CalculadoraDeSalariosTests depende de NUnit3TestAdapter (>= 4.4.2), mas NUnit3TestAdapter 4.4.2 não foi encontrado. A melhor correspondência aproximada de NUnit3TestAdapter 4.5.0 foi resolvida.",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
